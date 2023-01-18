@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "O4gkQ9eiTKSxaawphjtuzZ0bQ3/sDIEDOcV7lG4LBW5KhuaJ8RQxhMLQEkxjuFkFfLyvqrAZ/nLk3aCkEkz50w==",
+  "success": true,
+  "projectFilePath": "D:\\CSharp\\WS_CadastraDados\\WorkerService.CadastraDados\\WorkerService.CadastraDados.Domain\\WorkerService.CadastraDados.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\victo\\.nuget\\packages\\rabbitmq.client\\6.4.0\\rabbitmq.client.6.4.0.nupkg.sha512",
+    "C:\\Users\\victo\\.nuget\\packages\\system.memory\\4.5.4\\system.memory.4.5.4.nupkg.sha512",
+    "C:\\Users\\victo\\.nuget\\packages\\system.threading.channels\\4.7.1\\system.threading.channels.4.7.1.nupkg.sha512"
+  ],
+  "logs": []
+}

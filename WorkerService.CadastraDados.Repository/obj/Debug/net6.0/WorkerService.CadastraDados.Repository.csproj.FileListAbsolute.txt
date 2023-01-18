@@ -1,0 +1,17 @@
+D:\CSharp\WS_CadastraDados\WorkerService.CadastraDados\WorkerService.CadastraDados.Repository\bin\Debug\net6.0\WorkerService.CadastraDados.Repository.deps.json
+D:\CSharp\WS_CadastraDados\WorkerService.CadastraDados\WorkerService.CadastraDados.Repository\bin\Debug\net6.0\WorkerService.CadastraDados.Repository.dll
+D:\CSharp\WS_CadastraDados\WorkerService.CadastraDados\WorkerService.CadastraDados.Repository\bin\Debug\net6.0\ref\WorkerService.CadastraDados.Repository.dll
+D:\CSharp\WS_CadastraDados\WorkerService.CadastraDados\WorkerService.CadastraDados.Repository\bin\Debug\net6.0\WorkerService.CadastraDados.Repository.pdb
+D:\CSharp\WS_CadastraDados\WorkerService.CadastraDados\WorkerService.CadastraDados.Repository\obj\Debug\net6.0\WorkerService.CadastraDados.Repository.csproj.AssemblyReference.cache
+D:\CSharp\WS_CadastraDados\WorkerService.CadastraDados\WorkerService.CadastraDados.Repository\obj\Debug\net6.0\WorkerService.CadastraDados.Repository.GeneratedMSBuildEditorConfig.editorconfig
+D:\CSharp\WS_CadastraDados\WorkerService.CadastraDados\WorkerService.CadastraDados.Repository\obj\Debug\net6.0\WorkerService.CadastraDados.Repository.AssemblyInfoInputs.cache
+D:\CSharp\WS_CadastraDados\WorkerService.CadastraDados\WorkerService.CadastraDados.Repository\obj\Debug\net6.0\WorkerService.CadastraDados.Repository.AssemblyInfo.cs
+D:\CSharp\WS_CadastraDados\WorkerService.CadastraDados\WorkerService.CadastraDados.Repository\obj\Debug\net6.0\WorkerService.CadastraDados.Repository.csproj.CoreCompileInputs.cache
+D:\CSharp\WS_CadastraDados\WorkerService.CadastraDados\WorkerService.CadastraDados.Repository\obj\Debug\net6.0\WorkerService.CadastraDados.Repository.dll
+D:\CSharp\WS_CadastraDados\WorkerService.CadastraDados\WorkerService.CadastraDados.Repository\obj\Debug\net6.0\ref\WorkerService.CadastraDados.Repository.dll
+D:\CSharp\WS_CadastraDados\WorkerService.CadastraDados\WorkerService.CadastraDados.Repository\obj\Debug\net6.0\WorkerService.CadastraDados.Repository.pdb
+D:\CSharp\WS_CadastraDados\WorkerService.CadastraDados\WorkerService.CadastraDados.Repository\bin\Debug\net6.0\WorkerService.CadastraDados.Repository.runtimeconfig.json
+D:\CSharp\WS_CadastraDados\WorkerService.CadastraDados\WorkerService.CadastraDados.Repository\bin\Debug\net6.0\WorkerService.CadastraDados.Domain.dll
+D:\CSharp\WS_CadastraDados\WorkerService.CadastraDados\WorkerService.CadastraDados.Repository\bin\Debug\net6.0\WorkerService.CadastraDados.Domain.pdb
+D:\CSharp\WS_CadastraDados\WorkerService.CadastraDados\WorkerService.CadastraDados.Repository\obj\Debug\net6.0\WorkerService.CadastraDados.Repository.csproj.CopyComplete
+D:\CSharp\WS_CadastraDados\WorkerService.CadastraDados\WorkerService.CadastraDados.Repository\obj\Debug\net6.0\WorkerService.CadastraDados.Repository.genruntimeconfig.cache

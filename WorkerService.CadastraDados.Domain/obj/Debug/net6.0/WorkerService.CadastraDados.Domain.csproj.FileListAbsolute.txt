@@ -1,0 +1,12 @@
+D:\CSharp\WS_CadastraDados\WorkerService.CadastraDados\WorkerService.CadastraDados.Domain\bin\Debug\net6.0\WorkerService.CadastraDados.Domain.deps.json
+D:\CSharp\WS_CadastraDados\WorkerService.CadastraDados\WorkerService.CadastraDados.Domain\bin\Debug\net6.0\WorkerService.CadastraDados.Domain.dll
+D:\CSharp\WS_CadastraDados\WorkerService.CadastraDados\WorkerService.CadastraDados.Domain\bin\Debug\net6.0\ref\WorkerService.CadastraDados.Domain.dll
+D:\CSharp\WS_CadastraDados\WorkerService.CadastraDados\WorkerService.CadastraDados.Domain\bin\Debug\net6.0\WorkerService.CadastraDados.Domain.pdb
+D:\CSharp\WS_CadastraDados\WorkerService.CadastraDados\WorkerService.CadastraDados.Domain\obj\Debug\net6.0\WorkerService.CadastraDados.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\CSharp\WS_CadastraDados\WorkerService.CadastraDados\WorkerService.CadastraDados.Domain\obj\Debug\net6.0\WorkerService.CadastraDados.Domain.AssemblyInfoInputs.cache
+D:\CSharp\WS_CadastraDados\WorkerService.CadastraDados\WorkerService.CadastraDados.Domain\obj\Debug\net6.0\WorkerService.CadastraDados.Domain.AssemblyInfo.cs
+D:\CSharp\WS_CadastraDados\WorkerService.CadastraDados\WorkerService.CadastraDados.Domain\obj\Debug\net6.0\WorkerService.CadastraDados.Domain.csproj.CoreCompileInputs.cache
+D:\CSharp\WS_CadastraDados\WorkerService.CadastraDados\WorkerService.CadastraDados.Domain\obj\Debug\net6.0\WorkerService.CadastraDados.Domain.dll
+D:\CSharp\WS_CadastraDados\WorkerService.CadastraDados\WorkerService.CadastraDados.Domain\obj\Debug\net6.0\ref\WorkerService.CadastraDados.Domain.dll
+D:\CSharp\WS_CadastraDados\WorkerService.CadastraDados\WorkerService.CadastraDados.Domain\obj\Debug\net6.0\WorkerService.CadastraDados.Domain.pdb
+D:\CSharp\WS_CadastraDados\WorkerService.CadastraDados\WorkerService.CadastraDados.Domain\obj\Debug\net6.0\WorkerService.CadastraDados.Domain.csproj.AssemblyReference.cache
