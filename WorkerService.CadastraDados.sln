@@ -3,13 +3,13 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.0.31903.59
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WorkerService.CadastraDados.Service", "WorkerService.CadastraDados\WorkerService.CadastraDados.Service.csproj", "{D1CDFCAA-7304-4330-BE3D-4680233BE96F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WorkerService.CadastraDados.Service", "WorkerService.CadastraDados\WorkerService.CadastraDados.Service.csproj", "{D1CDFCAA-7304-4330-BE3D-4680233BE96F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WorkerService.CadastraDados.Domain", "WorkerService.CadastraDados.Domain\WorkerService.CadastraDados.Domain.csproj", "{F609BEBB-3199-4126-AA8B-53F036344434}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WorkerService.CadastraDados.Domain", "WorkerService.CadastraDados.Domain\WorkerService.CadastraDados.Domain.csproj", "{F609BEBB-3199-4126-AA8B-53F036344434}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WorkerService.CadastraDados.Repository", "WorkerService.CadastraDados.Repository\WorkerService.CadastraDados.Repository.csproj", "{0A6CA4CC-B2D3-44A1-9015-B6E922C977D7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WorkerService.CadastraDados.Repository", "WorkerService.CadastraDados.Repository\WorkerService.CadastraDados.Repository.csproj", "{0A6CA4CC-B2D3-44A1-9015-B6E922C977D7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WorkerService.CadastraDados.Application", "WorkerService.CadastraDados.Application\WorkerService.CadastraDados.Application.csproj", "{C602AD19-8A77-452A-B8EF-8AA3A02F8E03}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WorkerService.CadastraDados.Application", "WorkerService.CadastraDados.Application\WorkerService.CadastraDados.Application.csproj", "{C602AD19-8A77-452A-B8EF-8AA3A02F8E03}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

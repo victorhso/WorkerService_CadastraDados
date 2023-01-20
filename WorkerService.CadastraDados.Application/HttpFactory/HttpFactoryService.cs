@@ -12,7 +12,7 @@ namespace WorkerService.CadastraDados.Application.HttpFactory
     public class HttpFactoryService : IHttpFactoryService
     {
         private static readonly HttpClient client = new HttpClient();
-        private static string BaseUri = "http://viacep.com.br/ws";
+        private static string BaseUri = "https://viacep.com.br/ws";
 
         public async Task<ResponseBuscaEnderecoPorCepDto> BuscarEnderecoPorCep(string cep)
         {
